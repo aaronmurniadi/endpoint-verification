@@ -14,3 +14,7 @@ This script will do the following:
 
 - [ ] Implement GPG verification of files for security.
 - [ ] Uninstallation script.
+
+# Credits:
+
+- The code is edited from [leafi/endpoint-verification-any-linux](https://github.com/leafi/endpoint-verification-any-linux)
