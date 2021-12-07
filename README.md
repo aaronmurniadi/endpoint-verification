@@ -7,8 +7,10 @@ The 'google-chrome-stable' package on Fedora's Repository does not support the E
 So, this script will help you do the following:
 
 1. Download the official .deb file from Google.
-2. Extract the debian files.
-3. Copy to each directories for Google Chrome to use it. (sudo needed)
+2. Extract the debian package.
+3. Copy the files to respective directories so Google Chrome could use it.
+
+Attention: **some folders needs root access.**
 
 # Todo:
 
@@ -17,4 +19,4 @@ So, this script will help you do the following:
 
 # Credits:
 
-- The code is edited from [leafi/endpoint-verification-any-linux](https://github.com/leafi/endpoint-verification-any-linux)
+- [leafi/endpoint-verification-any-linux](https://github.com/leafi/endpoint-verification-any-linux)
